@@ -10,9 +10,9 @@
 
 ## 📌 Summary
 
-Senior Software Engineer with **~8 years** designing, building, and operating high-performance, cloud-native distributed systems across regulated **banking** and **healthcare** domains. Deep expertise in the **Java / Spring Boot** ecosystem, **microservices**, and **event-driven architectures** with Kafka, backed by strong full-stack delivery in **React** and **Angular**.
+Senior Software Engineer with **8 years** designing, building, and operating high-performance, cloud-native distributed systems across regulated **banking** and **healthcare** domains. Deep expertise in the **Java / Spring Boot** ecosystem, **microservices**, and **event-driven architectures** with Kafka, backed by strong full-stack delivery in **React** and **Angular**.
 
-Proven record of leading **legacy-to-cloud migrations** on AWS, Azure, and GCP using Kubernetes, Docker, Terraform, and Helm, wired into automated CI/CD pipelines. Owns systems **end-to-end** — from API and data design to observability, security, and **HIPAA / PCI / SOC 2** compliance — while mentoring engineers and driving Agile / SAFe delivery.
+Proven record of leading **legacy-to-cloud migrations** on AWS, Azure, and GCP using Kubernetes, Docker, Terraform, and Helm, wired into automated CI/CD pipelines. Owns systems **end-to-end** — from API and data design to observability, security, and **HIPAA / PCI / SOC 2** compliance  while mentoring engineers and driving Agile / SAFe delivery.
 
 ---
 
@@ -45,7 +45,7 @@ OAuth 2.0, JWT, OpenID Connect, Okta, MFA, API Gateway, HIPAA, PCI DSS, SOC 2, A
 
 **Project:** Core Transformation & Cloud Modernization
 
-> Migrating legacy monolithic Java systems to cloud-native microservices on AWS/Azure using Spring Boot, Docker, and Kubernetes — with event-driven Kafka pipelines, IaC, and automated CI/CD for a member-facing digital banking platform.
+> Migrating legacy monolithic Java systems to cloud-native microservices on AWS/Azure using Spring Boot, Docker, and Kubernetes  with event-driven Kafka pipelines, IaC, and automated CI/CD for a memberfacing digital banking platform.
 
 - Architect and implement Spring Boot RESTful APIs for core banking services, ensuring seamless integration with legacy systems throughout the core transformation.
 - Lead cloud migration of microservices to AWS EKS / Kubernetes with auto-scaling, security groups, and high-availability configuration.
