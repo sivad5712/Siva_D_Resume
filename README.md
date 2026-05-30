@@ -12,7 +12,7 @@
 
 Senior Software Engineer with **8 years** designing, building, and operating high-performance, cloud-native distributed systems across regulated **banking** and **healthcare** domains. Deep expertise in the **Java / Spring Boot** ecosystem, **microservices**, and **event-driven architectures** with Kafka, backed by strong full-stack delivery in **React** and **Angular**.
 
-Proven record of leading **legacy-to-cloud migrations** on AWS, Azure, and GCP using Kubernetes, Docker, Terraform, and Helm, wired into automated CI/CD pipelines. Owns systems **end-to-end** — from API and data design to observability, security, and **HIPAA / PCI / SOC 2** compliance  while mentoring engineers and driving Agile / SAFe delivery.
+Proven record of leading **legacy-to-cloud migrations** on AWS, Azure, and GCP using Kubernetes, Docker, Terraform, and Helm, wired into automated CI/CD pipelines. Owns systems **end-to-end**  from API and data design to observability, security, and **HIPAA / PCI / SOC 2** compliance  while mentoring engineers and driving Agile / SAFe delivery.
 
 ---
 
