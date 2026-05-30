@@ -4,9 +4,7 @@
 
 📞 **+1 (614) 664-9498**  ·  ✉️ [Sivad5712@gmail.com](mailto:Sivad5712@gmail.com)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/)  ·  [GitHub](https://github.com/sivad5712)  ·  [Portfolio](https://github.com/sivad5712)
-
-> _Note: update the LinkedIn and Portfolio links above with your real URLs — placeholders are used since the source resume listed them as plain labels._
+🔗 [LinkedIn](https://www.linkedin.com/in/sivad571/)  ·  [GitHub](https://github.com/sivad5712)  ·  [Portfolio](https://sivad.abacusai.app)
 
 ---
 
@@ -20,14 +18,23 @@ Proven record of leading **legacy-to-cloud migrations** on AWS, Azure, and GCP u
 
 ## 🛠️ Core Skills
 
-| Area | Technologies |
-| --- | --- |
-| **Backend & Microservices** | Java, Scala, Spring Boot, Spring MVC, Spring Security, Hibernate, Microservices, Node.js, Express.js, REST, GraphQL, SOAP, FHIR R4/R5 |
-| **Frontend & UI** | React.js, Angular, TypeScript, JavaScript, HTML5, CSS3, Sass, Bootstrap, RxJS, jQuery, WebGL / Three.js |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda, RDS, DynamoDB, EKS, IAM, CloudWatch, Glue), Azure (AKS, Functions, App Services, API Mgmt, SQL, Blob, Key Vault, WAF), GCP (GKE), Kubernetes, Docker, Terraform, CloudFormation, Helm, Jenkins, GitHub Actions |
-| **Data & Messaging** | PostgreSQL, MySQL, Oracle, DB2, MongoDB, Cassandra, DynamoDB, Redis, SQLite, PL/SQL, Apache Kafka, Kafka Streams, RabbitMQ, ActiveMQ |
-| **Testing & Observability** | JUnit, Mockito, Cypress, Postman, Cucumber, TDD / BDD, Prometheus, Grafana, ELK Stack, Splunk, SonarQube, OWASP |
-| **Security & Practices** | OAuth 2.0, JWT, OpenID Connect, Okta, MFA, API Gateway, HIPAA, PCI DSS, SOC 2, Agile / Scrum, SAFe, Kanban, Git, Bitbucket, GitLab, Jira, Confluence, Maven |
+### Backend & Microservices
+Java, Scala, Spring Boot, Spring MVC, Spring Security, Hibernate, Microservices Architecture, Node.js, Express.js, RESTful APIs, GraphQL, SOAP, FHIR R4/R5
+
+### Frontend & UI
+React.js, Angular, TypeScript, JavaScript, HTML5, CSS3, Sass, Bootstrap, RxJS, jQuery, WebGL/Three.js
+
+### Cloud & DevOps
+AWS (EC2, S3, Lambda, RDS, DynamoDB, EKS, IAM, CloudWatch, Glue), Azure (AKS, Functions, App Services, API Management, Azure SQL, Blob Storage, Key Vault, WAF), GCP (GKE), Kubernetes, Docker, Terraform, CloudFormation, Helm, Jenkins, GitHub Actions
+
+### Data & Messaging
+PostgreSQL, MySQL, Oracle, DB2, MongoDB, Cassandra, DynamoDB, Redis, SQLite, PL/SQL, Apache Kafka, Kafka Streams, RabbitMQ, ActiveMQ
+
+### Testing & Observability
+JUnit, Mockito, Cypress, Postman, Cucumber, TDD/BDD, Prometheus, Grafana, ELK Stack, Splunk, SonarQube, OWASP
+
+### Security & Practices
+OAuth 2.0, JWT, OpenID Connect, Okta, MFA, API Gateway, HIPAA, PCI DSS, SOC 2, Agile/Scrum, SAFe, Kanban, Git, Bitbucket, GitLab, Jira, Confluence, Maven
 
 ---
 
