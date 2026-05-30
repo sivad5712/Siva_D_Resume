@@ -16,7 +16,7 @@ Proven record of leading **legacy-to-cloud migrations** on AWS, Azure, and GCP u
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Technical Skills
 
 ### Backend & Microservices
 Java, Scala, Spring Boot, Spring MVC, Spring Security, Hibernate, Microservices Architecture, Node.js, Express.js, RESTful APIs, GraphQL, SOAP, FHIR R4/R5
